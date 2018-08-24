@@ -4,9 +4,9 @@ A library of Iconic and Beautiful React Native Input and Editing components such
 Yet, this library only contains one Iconic React Native Input Component. That is, IconicTextbox which looks as cool as these:
 
 <center>
-<img src="assets/Round.jpeg" alt="Make proffessional looking forms in React Native" width="400" height="190" />
+<img src="assets/Round.jpeg" alt="Make proffessional looking forms in React Native" width="380" height="175" />
 
-<img src="assets/Form.jpeg" alt="Make proffessional looking forms in React Native" width="400" height="190">
+<img src="assets/Form.jpeg" alt="Make proffessional looking forms in React Native" width="380" height="175">
 </center>
 
 ___
