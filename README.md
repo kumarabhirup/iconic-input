@@ -54,7 +54,7 @@ render(){
 
 ## Development and Contribution
 Currently, it just has one Component as illustrated. Later, more input components and their iconic designs will be added.
----
+
 This repository accepts all types of added innovation. It is open source.
 If you want to contribute to this project, **just fork this project and drop a pull request.**
 
