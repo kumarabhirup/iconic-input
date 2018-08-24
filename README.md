@@ -1,6 +1,6 @@
 # Iconic Input (iconic-input)
-A library of Iconic and Beautiful React Native Input and Editing components such as ***IconicTextbox***.
----
+A library Beautiful **React Native Input components** such as ***IconicTextbox***.
+___
 Yet, this library only contains one Iconic React Native Input Component. That is, IconicTextbox which looks as cool as these:
 
 <center>
