@@ -1,0 +1,28 @@
+{
+  "name": "iconic-input",
+  "version": "1.0.0",
+  "description": "Beautiful Input components for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/KumarAbhirup/iconic-input"
+  },
+  "keywords": [
+    "React",
+    "React",
+    "Native",
+    "Javascript",
+    "Node.js",
+    "Component"
+  ],
+  "author": "Kumar Abhirup",
+  "license": "ISC",
+  "dependencies": {
+    "native-base": "^2.7.2",
+    "react": "^16.4.2",
+    "react-native": "^0.56.0"
+  }
+}
