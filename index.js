@@ -1,1 +1,1 @@
-export * from './IconicInput'
+export * from './IconicTextbox'
