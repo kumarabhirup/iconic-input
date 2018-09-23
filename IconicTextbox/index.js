@@ -87,7 +87,7 @@ const styles = StyleSheet.create({
         fontSize: 18
     },
     iconPlaceholder: {
-        flex: 1,
+        flex: 2,
         alignItems: 'center',
         justifyContent: 'center'
     }
