@@ -1,6 +1,6 @@
 {
   "name": "iconic-input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Beautiful Input components for React Native",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,9 @@
   "license": "ISC",
   "dependencies": {
     "native-base": "^2.7.2",
-    "react": "^16.4.2",
+    "react": "^16.4.2"
+  },
+  "devDependencies": {
     "react-native": "^0.56.0"
   }
 }
