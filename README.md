@@ -39,6 +39,3 @@ Currently, it just has one Component as illustrated. Later, more input component
 
 This repository accepts all types of added innovation. It is open source.
 If you want to contribute to this project, **just fork this project and drop a pull request.**
-
-## License
-Why the fuck does an open source software need any license? Well, **This repo is GPL licensed** for no better reason.
